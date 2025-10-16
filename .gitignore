@@ -1,0 +1,42 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.tmp
+
+# === Virtual environment ===
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# === Environment files ===
+# Токены, ключи и конфиденциальные данные
+.env
+
+# === Database files ===
+*.db
+*.sqlite3
+
+# === IDE / Editor ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# === Build / Distribution ===
+build/
+dist/
+*.egg-info/
+
+BOT_TOKEN=8286178592:AAF68VWWrufyya1UXeMYp-6KkmXzh7gLnm0
+ADMINS=1224598567,5065450496
+REF_PERCENT=1.0
